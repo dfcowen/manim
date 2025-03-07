@@ -1,4 +1,4 @@
-# Run with manim -pql ChargeAndEFieldSymmetry-v01.py ElectricFieldSymmetry
+# Run with manim -pql ChargeAndEFieldSymmetry-v01.py ElectricFieldSymmetry (--disable_caching?)
 # May want to salloc first: salloc -N 4 --partition=mgc-mri -t 1:00:00 --mem=64GB
 # Remember to run conda activate manim first
 from manim import *
