@@ -1,5 +1,5 @@
 # Run with, e.g.,
-#    python /storage/home/dfc13/manim/examples/EFieldLineOfCharge-v03.py -pl
+#    python /storage/home/dfc13/manim/P212/EFieldLineOfCharge.py -pl
 
 from manim import *
 import numpy as np
